@@ -9,23 +9,6 @@
 <h2 align="left">Connect Me With</h2>
 <!------>
 
-<p align="left">
-  <a href="https://www.quora.com/profile/Rowida-Nagah" target="blank">
-    <img align="center" src= "https://www.svgrepo.com/show/25177/quora.svg" draggable="false" alt="Dana46" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/rowida-nagah-30182a135" target="blank">
-    <img align="center" src="https://github.com/HouariZegai/HouariZegai/blob/master/icons/linkedin.png" alt="Rowida Nagah" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/Rowida_Nagah" target="blank">
-    <img align="center" src="https://github.com/HouariZegai/HouariZegai/blob/master/icons/twitter.png" alt="Dana46" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/rowida.nagah.545/" target="blank">
-    <img align="center" src="https://github.com/HouariZegai/HouariZegai/blob/master/icons/facebook.png" alt="Rowida Nagah" height="30" width="40" />
-  </a>
-</p>
-
-
-<br/>
 
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
@@ -37,8 +20,8 @@
 
 - 🖍️📚 I'm Trying to recap concepts and topics I read on: my dev account and Today I learn on [_My dev.io Account](https://dev.to/rowida46) and [TIL Repo](https://github.com/Rowida46/TIL/tree/rowida).
 
-- 📫 How to reach me out: [My facebook account](https://www.facebook.com/rowida.nagah.545/)
-
+<!-- - 📫 How to reach me out: [My facebook account](https://www.facebook.com/rowida.nagah.545/)
+ -->
 - 😄 Pronouns: Dana
 
 - ⚡ Fun fact: "_Bellow the lid of your life_ " is my fav Qoute. 
